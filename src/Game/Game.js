@@ -15,10 +15,6 @@ class Game extends React.Component{
                 </div> );
     }
 
-} 
-
-Game.propTypes = {
-    name: propTypes.string,
 }
 
 
